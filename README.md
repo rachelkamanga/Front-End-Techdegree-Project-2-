@@ -1,13 +1,12 @@
 # Mobile-First Responsive Layout
 
- In this project, I had to build a responsive, mobile-first layout using HTML and CSS. I was given three image mockups for a mobile, tablet, and desktop layout to build the webpage. I used the mobile-first approach. Using min-width media queries, I added breakpoints to adjust the layout for a wider tablet and desktop screens. 
- 
- Using CSS, I added an additional Google font to the page and styling to the links. Furthermore, I added an additional skills section to the page. 
+* Developed a mobile-first responsive website using HTML5 and CSS3 based on provided design mockups for mobile, tablet, and desktop layouts
+* Implemented min-width media queries to create adaptive breakpoints, ensuring seamless responsiveness across multiple screen sizes
+* Applied modern CSS styling techniques to enhance layout structure, typography, and link design, improving overall user experience
+* Integrated Google Fonts and added a custom skills section to extend functionality beyond the original requirements
+* Conducted cross-browser testing to ensure consistent performance across Chrome, Firefox, and Microsoft Edge
+* Delivered a high-quality solution that exceeded project expectations
 
- Broswers tested for compatibility: 
-
- 1. Chrome
- 2. Firefox
- 3. Edge
+Technologies: HTML, CSS
 
  Grade: Exceeds Expectations
